@@ -1,1 +1,1 @@
-FROM fluentd-elasticsearch:v2.0.4
+FROM fluentd-elasticsearch:2.0.4
