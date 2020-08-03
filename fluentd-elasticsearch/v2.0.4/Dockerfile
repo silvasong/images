@@ -1,1 +1,1 @@
-FROM gcr.azk8s.cn/google-containers/fluentd-elasticsearch:v2.0.4
+FROM fluentd-elasticsearch:v2.0.4
