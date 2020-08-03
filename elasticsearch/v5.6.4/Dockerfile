@@ -1,1 +1,1 @@
-FROM gcr.azk8s.cn/google-containers/elasticsearch:v5.6.4
+FROM elasticsearch:v5.6.4
