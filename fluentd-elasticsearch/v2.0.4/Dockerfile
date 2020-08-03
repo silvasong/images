@@ -1,1 +1,1 @@
-FROM fluentd:2.0.4
+FROM fluentd:v1.9-1
